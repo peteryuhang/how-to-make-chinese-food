@@ -11,4 +11,5 @@
 |[香酥小黄鱼](./recipes/%E9%A6%99%E9%85%A5%E5%B0%8F%E9%BB%84%E9%B1%BC.md) | [Link](https://www.youtube.com/watch?v=OAWgrXJrWfs) |
 |[豉汁凤爪](./recipes/%E9%A6%99%E9%85%A5%E5%B0%8F%E9%BB%84%E9%B1%BC.md) | [Link](https://www.youtube.com/watch?v=nkHYh4Bmb8k) |
 |[烩平菇](./recipes/%E7%83%A9%E5%B9%B3%E8%8F%87.md) | / |
+|[飘香炖排骨](./recipes/%E9%A3%98%E9%A6%99%E7%82%96%E6%8E%92%E9%AA%A8.md) | / |
 |[韭菜盒子](./recipes/%E9%9F%AD%E8%8F%9C%E7%9B%92%E5%AD%90.md) | [Link]() |
